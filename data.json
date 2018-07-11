@@ -1,0 +1,52 @@
+{
+  "details":{
+    "name":"vemuri",
+    "email":"mohanswaroopvemuri@gmail.com",
+    "mobile":"9848216934",
+    "address":"pvpsit"
+},
+"career":{
+  "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+},
+"education":[
+  {
+  "degree":"B.tech",
+  "institute":"pvpsit",
+  "data":["2015-2019","80%"]
+},
+{
+  "degree":"intermediate",
+  "institute":"Narayana",
+  "data":["2013-2015"]
+},
+{
+  "degree":"S.S.C",
+  "institute":"sri vidhyalaya",
+  "data":["2014","92%"]
+}
+],
+"skills":[
+  {
+    "title":"programing languages",
+    "info":["c","c++","python","java","Ruby","R"]
+
+  },
+  {
+  "title":"Database",
+    "info":["Oracle","mysql","sql"]
+  },
+{
+    "title":"OS",
+      "info":["windows","mac","unix","kaliLinux"]
+},
+{
+  "title":"WT",
+  "info":["xml","java"]
+}
+],
+"achievements":[
+{
+  "achieveData":"certified in kabbadi at school"
+}
+]
+}
